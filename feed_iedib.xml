@@ -9,7 +9,7 @@
         <language>es</language>
         <lastBuildDate>Mon, 17 Feb 2026 15:45:00 CET</lastBuildDate>
 
-        <!-- URL CRÍTICA: Apunta EXACTAMENTE a tu archivo en GitHub -->
+        <!-- URL GitHub -->
         <atom:link href="https://raw.githubusercontent.com/esteiilode/iedib/main/feed_iedib.xml"
             rel="self"
             type="application/rss+xml" />
@@ -75,4 +75,5 @@
             <category>Aula Virtual</category>
         </item>
     </channel>
+
 </rss>
