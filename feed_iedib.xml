@@ -1,78 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <!-- INFORMACIÓN DEL CANAL - IEDIB REAL -->
-        <title>Noticias del IEDIB - Institut d'Ensenyaments a Distància</title>
-        <link>https://iedib.caib.es</link>
-        <description>Portal oficial del Institut d'Ensenyaments a Distància de les Illes Balears.
-            Noticias, convocatorias y avisos para estudiantes de formación a distancia.</description>
-        <language>es</language>
-        <lastBuildDate>Mon, 17 Feb 2026 15:45:00 CET</lastBuildDate>
-
-        <!-- URL CRÍTICA: Apunta EXACTAMENTE a tu archivo en GitHub -->
-        <atom:link href="https://raw.githubusercontent.com/esteiilode/iedib/main/feed_iedib.xml"
-            rel="self"
-            type="application/rss+xml" />
-
-        <!-- NOTICIA 1: Convocatoria REAL del IEDIB -->
-        <item>
-            <title>Convocatoria Exámenes Extraordinarios Febrero 2026</title>
-            <description>
-        <![CDATA[
-          <p>El IEDIB ha publicado el <strong>calendario oficial</strong> para los exámenes extraordinarios de febrero de 2026.</p>
-          <p><strong>Periodo:</strong> Del 24 al 28 de febrero de 2026.</p>
-          <p><strong>Matrícula:</strong> Hasta el 20 de febrero inclusive.</p>
-          <p>Consulta los horarios específicos por módulo en el aula virtual.</p>
-          <p><em>Recomendación:</em> Confirmar asistencia con 48h de antelación.</p>
-        ]]>
-      </description>
-            <link>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2026</link>
-            <guid>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2026</guid>
-            <pubDate>Thu, 10 Feb 2026 10:00:00 CET</pubDate>
-            <category>Exámenes</category>
-            <category>Convocatorias</category>
-            <category>Estudiantes</category>
-        </item>
-
-        <!-- NOTICIA 2: Curso específico REAL del IEDIB -->
-        <item>
-            <title>Nueva Edición: GS_0373 Llenguatges de Marques</title>
-            <description>
-        <![CDATA[
-          <p>Abierta la matrícula para la nueva edición del ciclo formativo <strong>GS_0373 Llenguatges de marques i sistemes de gestió de la informació</strong>.</p>
-          <p><strong>Inicio:</strong> 10 de marzo de 2026.</p>
-          <p><strong>Modalidad:</strong> 100% online con tutorías síncronas.</p>
-          <p>Contenidos actualizados: XML, RSS, Atom, JSON, APIs REST.</p>
-          <p>Plazas limitadas. Prioridad por orden de inscripción.</p>
-        ]]>
-      </description>
-            <link>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2026</link>
-            <guid>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2026</guid>
-            <pubDate>Mon, 10 Feb 2026 14:30:00 CET</pubDate>
-            <category>Cursos</category>
-            <category>Matrícula</category>
-            <category>GS_0373</category>
-        </item>
-
-        <!-- NOTICIA 3: Aviso de mantenimiento REAL -->
-        <item>
-            <title>Mantenimiento Programado - Aula Virtual</title>
-            <description>
-        <![CDATA[
-          <p><strong>AVISO IMPORTANTE:</strong> El Aula Virtual del IEDIB estará inaccesible por mantenimiento técnico.</p>
-          <p><strong>Fecha:</strong> Sábado, 22 de febrero de 2026.</p>
-          <p><strong>Horario:</strong> De 08:00 a 14:00 horas.</p>
-          <p><strong>Afecta:</strong> Todas las plataformas de enseñanza (Moodle, foros, entrega de actividades).</p>
-          <p>Se recomienda a los estudiantes planificar las entregas fuera de este horario.</p>
-          <p>Disculpen las molestias.</p>
-        ]]>
-      </description>
-            <link>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2026</link>
-            <guid>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2026</guid>
-            <pubDate>Fri, 10 Feb 2026 09:15:00 CET</pubDate>
-            <category>Avisos</category>
-            <category>Mantenimiento</category>
-            <category>Aula Virtual</category>
-        </item>
-    </channel>
+<channel>
+<title>Noticias del IEDIB - Institut d'Ensenyaments a Distància</title>
+<link>https://iedib.caib.es</link>
+<description>Portal oficial del Institut d'Ensenyaments a Distància de les Illes Balears. Noticias, convocatorias y avisos para estudiantes de formación a distancia.</description>
+<language>es</language>
+<lastBuildDate>Mon, 17 Feb 2025 15:45:00 CET</lastBuildDate>
+<atom:link href="https://raw.githubusercontent.com/esteiilode/iedib/main/feed_iedib.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Convocatoria Exámenes Extraordinarios Febrero 2025</title>
+<description><![CDATA[<p>El IEDIB ha publicado el <strong>calendario oficial</strong> para los exámenes extraordinarios de febrero de 2025.</p><p><strong>Periodo:</strong> Del 24 al 28 de febrero de 2025.</p><p><strong>Matrícula:</strong> Hasta el 20 de febrero inclusive.</p><p>Consulta los horarios específicos por módulo en el aula virtual.</p><p><em>Recomendación:</em> Confirmar asistencia con 48h de antelación.</p>]]></description>
+<link>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2025</link>
+<guid>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2025</guid>
+<pubDate>Mon, 10 Feb 2025 10:00:00 CET</pubDate>
+<category>Exámenes</category>
+<category>Convocatorias</category>
+<category>Estudiantes</category>
+</item>
+<item>
+<title>Nueva Edición: GS_0373 Llenguatges de Marques</title>
+<description><![CDATA[<p>Abierta la matrícula para la nueva edición del ciclo formativo <strong>GS_0373 Llenguatges de marques i sistemes de gestió de la informació</strong>.</p><p><strong>Inicio:</strong> 10 de marzo de 2025.</p><p><strong>Modalidad:</strong> 100% online con tutorías síncronas.</p><p>Contenidos actualizados: XML, RSS, Atom, JSON, APIs REST.</p><p>Plazas limitadas. Prioridad por orden de inscripción.</p>]]></description>
+<link>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2025</link>
+<guid>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2025</guid>
+<pubDate>Mon, 10 Feb 2025 14:30:00 CET</pubDate>
+<category>Cursos</category>
+<category>Matrícula</category>
+<category>GS_0373</category>
+</item>
+<item>
+<title>Mantenimiento Programado - Aula Virtual</title>
+<description><![CDATA[<p><strong>AVISO IMPORTANTE:</strong> El Aula Virtual del IEDIB estará inaccesible por mantenimiento técnico.</p><p><strong>Fecha:</strong> Sábado, 22 de febrero de 2025.</p><p><strong>Horario:</strong> De 08:00 a 14:00 horas.</p><p><strong>Afecta:</strong> Todas las plataformas de enseñanza (Moodle, foros, entrega de actividades).</p><p>Se recomienda a los estudiantes planificar las entregas fuera de este horario.</p><p>Disculpen las molestias.</p>]]></description>
+<link>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2025</link>
+<guid>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2025</guid>
+<pubDate>Thu, 13 Feb 2025 09:15:00 CET</pubDate>
+<category>Avisos</category>
+<category>Mantenimiento</category>
+<category>Aula Virtual</category>
+</item>
+</channel>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Noticias del IEDIB - Institut d'Ensenyaments a Distància</title>
+<link>https://iedib.caib.es</link>
+<description>Portal oficial del Institut d'Ensenyaments a Distància de les Illes Balears. Noticias, convocatorias y avisos para estudiantes de formación a distancia.</description>
+<language>es</language>
+<lastBuildDate>Mon, 17 Feb 2025 15:45:00 CET</lastBuildDate>
+<atom:link href="https://raw.githubusercontent.com/esteiilode/iedib/main/feed_iedib.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Convocatoria Exámenes Extraordinarios Febrero 2025</title>
+<description><![CDATA[<p>El IEDIB ha publicado el <strong>calendario oficial</strong> para los exámenes extraordinarios de febrero de 2025.</p><p><strong>Periodo:</strong> Del 24 al 28 de febrero de 2025.</p><p><strong>Matrícula:</strong> Hasta el 20 de febrero inclusive.</p><p>Consulta los horarios específicos por módulo en el aula virtual.</p><p><em>Recomendación:</em> Confirmar asistencia con 48h de antelación.</p>]]></description>
+<link>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2025</link>
+<guid>https://iedib.caib.es/es/convocatoria-examenes-extraordinarios-febrero-2025</guid>
+<pubDate>Mon, 10 Feb 2025 10:00:00 CET</pubDate>
+<category>Exámenes</category>
+<category>Convocatorias</category>
+<category>Estudiantes</category>
+</item>
+<item>
+<title>Nueva Edición: GS_0373 Llenguatges de Marques</title>
+<description><![CDATA[<p>Abierta la matrícula para la nueva edición del ciclo formativo <strong>GS_0373 Llenguatges de marques i sistemes de gestió de la informació</strong>.</p><p><strong>Inicio:</strong> 10 de marzo de 2025.</p><p><strong>Modalidad:</strong> 100% online con tutorías síncronas.</p><p>Contenidos actualizados: XML, RSS, Atom, JSON, APIs REST.</p><p>Plazas limitadas. Prioridad por orden de inscripción.</p>]]></description>
+<link>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2025</link>
+<guid>https://iedib.caib.es/es/cursos/gs0373-llenguatges-marques-2025</guid>
+<pubDate>Mon, 10 Feb 2025 14:30:00 CET</pubDate>
+<category>Cursos</category>
+<category>Matrícula</category>
+<category>GS_0373</category>
+</item>
+<item>
+<title>Mantenimiento Programado - Aula Virtual</title>
+<description><![CDATA[<p><strong>AVISO IMPORTANTE:</strong> El Aula Virtual del IEDIB estará inaccesible por mantenimiento técnico.</p><p><strong>Fecha:</strong> Sábado, 22 de febrero de 2025.</p><p><strong>Horario:</strong> De 08:00 a 14:00 horas.</p><p><strong>Afecta:</strong> Todas las plataformas de enseñanza (Moodle, foros, entrega de actividades).</p><p>Se recomienda a los estudiantes planificar las entregas fuera de este horario.</p><p>Disculpen las molestias.</p>]]></description>
+<link>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2025</link>
+<guid>https://iedib.caib.es/es/avisos/mantenimiento-aula-virtual-febrero-2025</guid>
+<pubDate>Thu, 13 Feb 2025 09:15:00 CET</pubDate>
+<category>Avisos</category>
+<category>Mantenimiento</category>
+<category>Aula Virtual</category>
+</item>
+</channel>
 </rss>
