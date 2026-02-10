@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <!-- INFORMACIÓN DEL CANAL - IEDIB REAL -->
+        <!-- INFO DEL CANAL - IEDIB REAL -->
         <title>Noticias del IEDIB - Institut d'Ensenyaments a Distància</title>
         <link>https://iedib.caib.es</link>
         <description>Portal oficial del Institut d'Ensenyaments a Distància de les Illes Balears.
@@ -77,3 +77,4 @@
     </channel>
 
 </rss>
+
